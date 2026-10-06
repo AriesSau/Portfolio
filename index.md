@@ -10,9 +10,9 @@ Welcome to my portfolio, I am a **Physics major** with a minor in **Astrophysics
 ### My Posts
 
 <ul>
-  {% for post in site.posts %}
+  {% for post in _post %}
     <li>
-      <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+      <a href="{{ post.url | relative_url }}">{{ _post }}</a>
     </li>
   {% endfor %}
 </ul>
