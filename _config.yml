@@ -1,1 +1,4 @@
 theme: minima
+title: {{ login }}'s portfolio
+description: This is where I keep track of all coding work completed by me
+author: {{ login }}
