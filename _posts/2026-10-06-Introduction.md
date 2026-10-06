@@ -1,5 +1,6 @@
 ---
-layout: post
+layout: default
+title: "Introduction"
 ---
 ## Welcome to my Portfolio
 
