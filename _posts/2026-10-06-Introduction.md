@@ -5,4 +5,4 @@ This is my first post on my professional portfolio website. I’m excited to sha
 - Projects I’ve worked on, including my research and internships
 - My journey in astrophysics and the challenges I’ve overcome.
   
-Stay tuned for more updates!
+Stay tuned for future updates!
