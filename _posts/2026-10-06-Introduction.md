@@ -1,4 +1,3 @@
-# My First Post
 ## Welcome to my Portfolio
 
 This is my first post on my professional portfolio website. I’m excited to share insights from my experiences in Astrophysics and General Physics. Here are some of the things I plan to cover in future posts:
