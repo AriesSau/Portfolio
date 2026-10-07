@@ -2,6 +2,7 @@
 layout: default
 title: "Introduction"
 date: 2026-10-05
+sticky: True
 ---
 ## Welcome to my Portfolio
 
