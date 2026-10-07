@@ -1,6 +1,7 @@
 remote_theme: pages-themes/minimal@v0.2.0
 future: True
 timezone: America/New_York
+baseurl: "/Portfolio"
 plugins:
 - jekyll-remote-theme
 
