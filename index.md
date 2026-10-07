@@ -10,6 +10,12 @@ To the left you can find the record of all posts made on this website.
 
 ### About Me
 
+---
+### Contact Information
+Email: sauerhaftjack@outlook.com
+Phone: (203) 942-9759
+Location: Brookfield, CT
+
 
 
 
