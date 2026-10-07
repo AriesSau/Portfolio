@@ -9,6 +9,11 @@ Welcome to my portfolio, I am a **Physics major** with a minor in **Astrophysics
 To the left you can find the record of all posts made on this website.
 
 ### About Me
+Throughout my time in undergrad and before I have gained experience using a multitude of different softwares and tools for the purpose of many different projects ranigng from **CNC** and other like tools for my robotics team, to different **coding** softwares for different applications.  
+  
+**Programming:** Python, Julia
+**CAD:** SolidWorks, Autodesk 
+**Manufacturing:** Plasma Cutting and Fabrication, 3D Printing and Design
 
 ---
 ### Contact Information
