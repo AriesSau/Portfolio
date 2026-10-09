@@ -15,7 +15,7 @@ Throughout my time in undergrad and before I have gained experience using a mult
 **CAD:** Onshape, Autodesk  
 **Manufacturing:** Plasma Cutting and Fabrication, 3D Printing and Design
 
-<hr style="height: 4px; background-color: #333; border: none;">
+<hr style="height: 2px; background-color: #333; border: none;">
 
 ### Contact Information
 **Email:** sauerhaftjack@outlook.com  
