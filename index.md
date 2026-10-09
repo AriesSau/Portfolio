@@ -12,7 +12,7 @@ To the left you can find the record of all posts made on this website.
 Throughout my time in undergrad and before I have gained experience using a multitude of different softwares and tools for the purpose of many different projects ranigng from **CNC** and other like tools for my robotics team, to different **coding** softwares for different applications.  
   
 **Programming:** Python, Julia  
-**CAD:** SolidWorks, Autodesk  
+**CAD:** Onshape, Autodesk  
 **Manufacturing:** Plasma Cutting and Fabrication, 3D Printing and Design
 
 ---
